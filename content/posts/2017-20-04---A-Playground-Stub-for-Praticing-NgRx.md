@@ -3,14 +3,32 @@ title: A Playground Stub for Practicing NgRx
 date: "2019-04-20T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+slug: "/posts/ngrx-playground/"
+category: "Training"
 tags:
-  - "Design"
-  - "Typography"
+  - "Angular"
+  - "NgRx"
+  - "Redux"
+  - "RxJS"
+  - "JavaScript"
+  - "Front End"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "NgRx is a library which smoothly integrates a Redux store in any Angular application. In this tutorial, a stub application is used as a starting point for practicing NgRx Redux. 
 ---
+
+- [The NgRx library](#the-ngrx-library)
+- [Starting point](#starting-point)
+- [Defining and dispatching a redux action — example #1](#defining-and-dispatching-a-redux-action-example-1)
+- [Defining and dispatching a redux action — example #2](#defining-and-dispatching-a-redux-action-example-2)
+- [Ergonomic refinements with RxJS](#ergonomic-refinements-with-RxJS)
+- [Coding an NgRX @Effect to perform asynchronous actions](#coding-an-NgRX-effect-to-perform-asynchronous-actions)
+
+## The NgRx library
+## Starting point
+## Defining and dispatching a redux action — example #1
+## Defining and dispatching a redux action — example #2
+## Ergonomic refinements with RxJS
+## Coding an NgRX @Effect to perform asynchronous actions
 
 - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
