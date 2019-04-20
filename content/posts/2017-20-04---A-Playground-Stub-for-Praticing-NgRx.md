@@ -13,7 +13,7 @@ tags:
   - "JavaScript"
   - "Front End"
   - "Web Development"
-description: "NgRx is a library which smoothly integrates a Redux store in any Angular application. In this tutorial, a stub application is used as a starting point for practicing NgRx Redux. 
+description: "NgRx is a library which smoothly integrates a Redux store in any Angular application. In this tutorial, a stub application is used as a starting point for practicing NgRx Redux."
 ---
 
 - [The NgRx library](#the-ngrx-library)
