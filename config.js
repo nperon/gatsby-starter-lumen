@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  url: 'https://nperon.netlify.com',
+  title: 'Blog by Nicolas Peron',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
+    name: 'Nicolas Peron',
+    photo: '/nperon.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '@NicolasPeron5',
+      github: 'nperon',
       rss: '#',
       vkontakte: '#'
     }
