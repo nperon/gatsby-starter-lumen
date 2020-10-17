@@ -27,11 +27,11 @@ description: "NgRx is a library designed to integrate a Redux store in any Angul
 
 ## The NgRx library
 
-Redux consists in a store with a single access point intended for holding the state of any JavaScript application. The 
+Redux is a store with a single access point intended for holding the state of any JavaScript application. The 
 Redux library integrates well in React applications thanks to libraries like react-redux or reselect which provide
 the connection between the Redux store and the React components. 
 
-NgRx consists in a Redux store and its connecting API which is specific to Angular, the two of them wrapped together 
+NgRx consists of a Redux store and its connecting API which is specific to Angular, the two of them wrapped together 
 in a single library. The state selectors of the store are provided in the shape of RxJS Observables. Although RxJS is 
 not our focus here, it is a reactive programming library which is part of most significant enough Angular applications. 
 The use of NgRX with Angular is covered in the official Angular documentation. 
